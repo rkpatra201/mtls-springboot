@@ -1,4 +1,4 @@
-Example of Mutual Client Authorization in SpringBoot
+# Example of Mutual Client Authorization in SpringBoot
 
 (Check out what I've been up to lately at https://99milestoempty.com/)
 
